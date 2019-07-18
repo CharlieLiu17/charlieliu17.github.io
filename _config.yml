@@ -25,7 +25,7 @@ github_username:  CharlieLiu17
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-midnight
-remote-theme: laklau/agency-jekyll-theme
+remote-theme: y7kim/agency-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
