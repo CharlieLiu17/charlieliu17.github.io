@@ -3,7 +3,7 @@ layout: single
 title:  "Wheeler Model UN's New Website!"
 date:   2019-07-23 20:56:41 -0400
 ---
-  Recently, my friend Diego asked me to create a new website from scratch for his club, Model UN. Here's the [link](wheelermun.com).
+  Recently, my friend Diego asked me to create a new website from scratch for his club, Model UN. Here's the [link](http://wheelermun.com).
   In the process, I learned a lot about the intricacies of how Github Pages works and learned to use Jekyll's Ruby-gem based system. 
   At first, I was intimidated by all the new, foreign terminology I had learn, but after hours of just watching the same tutorials over and over again,
   I finally had a fundamental understanding of how git works and how I can navigate the repository system.
