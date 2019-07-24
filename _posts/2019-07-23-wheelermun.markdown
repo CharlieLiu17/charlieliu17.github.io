@@ -2,7 +2,6 @@
 layout: single
 title:  "Wheeler Model UN's New Website!"
 date:   2019-07-23 20:56:41 -0400
-categories: website wheelermun
 ---
   Recently, my friend Diego asked me to create a new website from scratch for his club, Model UN. Here's the [link](wheelermun.com).
   In the process, I learned a lot about the intricacies of how Github Pages works and learned to use Jekyll's Ruby-gem based system. 
