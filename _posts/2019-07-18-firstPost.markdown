@@ -2,7 +2,6 @@
 layout: single
 title:  "My New Website!"
 date:   2019-07-18 20:34:41 -0400
-categories: website projects 
 ---
   Welcome to my new website! I intend for this site to be a landing spot for anyone interested in the 
   work I'm doing. I'll sharing the projects I have worked on in the past and the projects I have planned for the future. 
