@@ -1,10 +1,10 @@
 ---
 layout: single
-title: Privacy Policy
-permalink: /about/
+title:  "SpiderSquare Privacy Policy"
+date:   2019-08-28 20:24:34 -0400
 ---
-
-Welcome to our Privacy Policy
+  
+    Welcome to our Privacy Policy
 -- Your privacy is critically important to us.
 Clames is located at:
 
