@@ -4,7 +4,7 @@ title:  "2020 Regionals!"
 date:   2019-10-15 20:56:41 -0400
 ---
   
-A week ago, I competed at the 2020 South Atlantic Regional Challenge, and it was really fun! I usually can't say that because I usually don't feel the happiest all the time coming back from competitions.
+A week ago, I competed at the 2020 South Atlantic Regional Challenge at the Junior level, and it was really fun! I usually can't say that because I usually don't feel the happiest all the time coming back from competitions.
 
 I place third, but honestly the placement itself is not what I was content about. I was just very happy that I was able to execute one of my main goals - a clean short program. For years, I've always been competing at a level where my competitors were doing jumps far more difficult than mine. I barely was able to keep up, and I would have to do harder jumps I know that weren't consistent enough to be competitive with my competitors. Everytime I skated my program, I would fall somewhere or pop a jump, and it really gave me a bad mindset I think. Even though my goal was always to skate clean, or just skate with no catastrophic mistakes, I never really thought I could achieve that. When I worked on a jump for weeks, even months without progress, it was extremely frustrating, and I didn't really know what to do except continue to throw myself into that jump, hoping some new technique comes out of it. The no progress may have come from continuous height growth throughout middle and high school, or it may have been me just not having the true motivation and focus to make progress on these difficult triple jumps. 
 
