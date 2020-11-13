@@ -107,9 +107,9 @@ analytics:
 # Site Author
 author:
   name             : "Charlie Liu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # pfplessthanmb.jpg"
   bio              : "High school student. Aspiring software engineer."
-  location         : "Marietta, GA"
+  location         : "Atlanta, GA"
   email            :
   links:
     - label: "Email"
