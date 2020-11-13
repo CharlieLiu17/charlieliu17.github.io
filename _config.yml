@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Charlie Liu"
-  avatar           : "pfplessthanmb.jpg"
   bio              : "CS Student at Georgia Tech. \n Just documenting some of the cool stuff I do."
+  avatar           : "/images/pfp200x200.png"
   location         : "Atlanta, GA"
   email            :
   links:
