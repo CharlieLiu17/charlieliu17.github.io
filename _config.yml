@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Charlie Liu"
-  avatar           : # pfplessthanmb.jpg"
+  avatar           : "/_assets/pfplessthanmb.jpg"
   bio              : "High school student. Aspiring software engineer."
   location         : "Atlanta, GA"
   email            :
