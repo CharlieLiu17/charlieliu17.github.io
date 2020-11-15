@@ -7,6 +7,8 @@ date:   2020-11-23 20:56:41 -0400
 
 [The Hack's Repo](https://github.com/CharlieLiu17/HackGT)
 
+[The Dev Post](https://devpost.com/software/write-noise)
+
 It's been a while! I'm back here to update on a few things that's happened. This year's been crazy with COVID and the transition to college. Going to Georgia Tech is going almost as well as I imagined. This fall semester, it really took a few months to adjust to college, but now I'm feeling better than ever. 
 
 About a month ago, I entered HackGT, the annual hackathon hosted by Georgia Tech. I was joined with Morris Wan, Ethan Chee, and Kurt Hu. Our team name was "Two Over One," which derives from the many, many games of Bridge that we played almost every day at the lunch and dinner table the first few months. Morris and I were partners-in-crime all the way back from high school, but we met Ethan and Kurt in the same building, and we've become close. 
