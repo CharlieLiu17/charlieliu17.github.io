@@ -1,7 +1,15 @@
 ---
 layout: single
+classes: wide
 title:  "HackGT: A New Experience"
 date:   2020-11-23 20:56:41 -0400
+header:
+    overlay_image: /images/writenoisebg.png
+    overlay_filter: 0.5
+    caption: Output of the first 30 seconds of Taylor Swift's hit song, "22"
+    actions:
+        - label: "Learn More"
+          url: https://devpost.com/software/write-noise
 ---
 [Our Hack :)](writenoise.herokuapp.com/)
 
