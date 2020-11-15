@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "HackGT: A New Experience"
-date:   2019-11-22 20:56:41 -0400
+date:   2020-11-23 20:56:41 -0400
 ---
 [Our Hack :)](writenoise.herokuapp.com/)
 
