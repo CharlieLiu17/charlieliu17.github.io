@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 layout: default
-permalink: /personalpage/about/
+permalink: /about/
 date: 2020-11-16T03:02:20+00:00
 ---
 
