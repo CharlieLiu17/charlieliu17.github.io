@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-layout: default
+layout: single
 permalink: /about/
 date: 2020-11-16T03:02:20+00:00
 ---
