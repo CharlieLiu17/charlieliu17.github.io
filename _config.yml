@@ -15,8 +15,8 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charles Liu"
-title_separator          : "|"
+title                    : #""
+title_separator          : #"|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Charlie Liu"
 description              : "Charlie Liu's Personal Portfolio and Page."
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Charlie Liu"
+  name             : #"Charlie Liu"
   bio              : "CS Student at Georgia Tech. \n Just documenting some of the cool stuff I do."
   avatar           : "/images/pfp400x400.png"
   location         : "Atlanta, GA"
