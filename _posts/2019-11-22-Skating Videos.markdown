@@ -21,5 +21,3 @@ Here's a few skating videos from the past seasons!
 
 &nbsp;
 &nbsp;
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GIGbp5oK_nQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
