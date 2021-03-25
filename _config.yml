@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : #""
-title_separator          : #"|"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Charlie Liu"
 description              : "Charlie Liu's Personal Portfolio and Page."
@@ -107,7 +107,8 @@ analytics:
 # Site Author
 author:
   name             : #"Charlie Liu"
-  bio              : "CS Student at Georgia Tech. \n Just documenting some of the cool stuff I do."
+  bio              : "CS Student at Georgia Tech.
+                      Documenting some of the work I do."
   avatar           : "/images/pfp400x400.png"
   location         : "Atlanta, GA"
   email            :
@@ -121,9 +122,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/charlie.liu.1612"
+   # - label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
+      #url: "https://www.facebook.com/charlie.liu.1612"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CharlieLiu17"
