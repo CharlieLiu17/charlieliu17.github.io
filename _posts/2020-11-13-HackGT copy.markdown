@@ -3,6 +3,7 @@ layout: single
 classes: wide
 title:  "HackGT: A New Experience"
 date:   2020-11-23 20:56:41 -0400
+excerpt: "Wonderful."
 header:
     overlay_image: /images/writenoisebg.png
     overlay_filter: 0.5
