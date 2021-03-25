@@ -145,7 +145,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CharlieLiu17"
     - label: "Privacy Policy"
-      #icon: "fab fa-fw fa-gitlab"
+      icon: "fab fa-fw fa-gitlab"
       url: "https://charlieliu17.github.io/personalpage/privacy-policy/"
     # - label: "Bitbucket"
       # icon: "fab fa-fw fa-bitbucket"
