@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title:  "Dog Days: Being a Game Dev"
 date:   2021-03-25 11:50:21 -0400
-excerpt: "Walking around a house has never felt more satisfying
+excerpt: "Walking around a house has never felt more satisfying!
 
 
 
