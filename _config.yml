@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:charlieliu2222@gmail.com
+      url: mailto:cliu629@gatech.edu
     #- label: "Website"
      # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -150,9 +150,9 @@ footer:
     # - label: "Bitbucket"
       # icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/the_churley/"
+    #- label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
+      #url: "https://www.instagram.com/the_churley/"
 
 
 # Reading Files
