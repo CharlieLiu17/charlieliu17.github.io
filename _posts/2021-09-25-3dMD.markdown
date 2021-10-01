@@ -5,11 +5,10 @@ title:  "My Time at 3dMD"
 date:   2021-03-25 11:50:21 -0400
 excerpt: "My First SWE Experience"
 header:
-    overlay_image: /images/fullbodydogdaysshot2.jpg
-    caption: Kobe from Dog Days!
+    overlay_image: /images/a9Migbcg_400x400.jpg
     actions:
         - label: "Learn More"
-          url: https://github.com/CharlieLiu17/Dog-Days
+          url: https://3dmd.com/
 ---
 
 This summer, I had the pleasure to work at a company called 3dMD as an intern. They make custom capture systems for clients that can record and process a 3D model of a human subject with color and texture perserved and with millimeter precision. As the company is small, I was able to have a lot of agency in the things I worked on. It really was a good summer working there.
@@ -18,5 +17,5 @@ My first time in a corporate environment has really changed my perspective on wo
 
 The first few days felt very hard, with my expectations weighing me down and the onboarding process in full-swing. I didn't know if I could make it through the 10 weeks. However, after the dust had settled, I felt a sense of familiarity as I sat down every morning. The flow state started to come to me, and I slowly started chipping away at project after project. Before I knew it, it was August and I had to head back to school again.
 
-I learned a lot in this internmship, but the biggest thing I've learned is that I know I've chosen the right career path for me.
+I learned a lot in this internship, but the biggest thing I've learned is that I know I've chosen the right career path for me.
 
