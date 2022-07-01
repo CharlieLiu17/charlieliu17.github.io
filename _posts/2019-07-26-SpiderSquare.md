@@ -1,7 +1,8 @@
 ---
 layout: single
-title:  "SpiderSquare: A New Horizon"
+title:  "SpiderSquare"
 date:   2019-08-18 20:34:41 -0400
+excerpt: "Mobile game on Google Play Store, built in Unity."
 ---
 [The Game](https://drive.google.com/open?id=1ZfGw4wC49k1kT4zib9tAgsk5X1Lx0cax)
 
