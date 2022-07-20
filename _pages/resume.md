@@ -5,4 +5,4 @@ permalink: /resume/
 ---
 
 
-<iframe src="/pdf/Charlie_Resume.pdf" width="100%" height="6em">
+<iframe src="/Charlie_Resume.pdf" width="100%" height="6em">
