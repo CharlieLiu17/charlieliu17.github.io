@@ -1,12 +1,6 @@
 # main links
 main:
-  #- title: "Clames's Privacy Policy"
-  #  url: https://charlieliu17.github.io/personalpage/about/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/

@@ -15,8 +15,8 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charles Liu - Computer Science Student at Georgia Tech"
-title_separator          : "|"
+title                    : "Charles Liu - Software Engineer and Computer Science Student at Georgia Tech"
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Charles Liu"
 description              : "Charles Liu's Personal Portfolio and Page."
@@ -24,8 +24,8 @@ url                      : "https://charlessliu.com" # the base hostname & proto
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CharlieLiu17/personalpage" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Home" # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/images/diamond-logo.png"
+masthead_title           : "Charles Liu" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -107,8 +107,9 @@ analytics:
 # Site Author
 author:
   name             : "Charles Liu"
-  bio              : "CS Student at Georgia Tech.
-                      Documenting some of the work I do."
+  bio              : "3rd-year CS Student at Georgia Tech.
+                      Backend and gaming focused.
+                      Prioritizes user empathy."
   avatar           : "/images/pfp400x400.png"
   location         : "Atlanta, GA"
   email            :
@@ -128,9 +129,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CharlieLiu17"
-    #- label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://www.instagram.com/the_churley/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/charlessliu/"
 
 # Site Footer
 footer:
