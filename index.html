@@ -41,8 +41,84 @@ header:
         font-size: 1.25em;
         font-weight: normal;
     }
+    h2 {
+        padding: 0px;
+        margin: 0px;
+        font-weight: normal;
+        font-size: 2em;
+        text-decoration: none;
+    }
     .solid {
-        border-top: 3px solid rgb(238, 3, 3);
+        border-top: 3px solid rgb(184, 182, 182);
+        width: 100%;
+        padding-top: 2em;
+        margin-top: 3em;
+    }
+    .grid-container {
+        display: grid;
+        gap: 1em;
+        width: 100%;
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(8, 2em);
+    }
+    .span-3-rows {
+        grid-row: span 3;
+    }
+    .span-4-rows {
+        grid-row: span 4;
+    }
+    .span-5-rows{
+        grid-row: span 5;
+    }
+    .span-2-cols {
+        grid-column: 1 / span 2;
+    }
+    .span-3-cols {
+        grid-column: 3 / span 3;
+    }
+    .span-5-row-start-fill {
+        grid-row: 5 / span 4;
+    }
+    .grid-item {
+        justify-self: stretch;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(0, 142, 236);
+        color: white;
+        font-weight: 600;
+        font-size: 1.5em;
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.85;
+        transition-duration: 0.4s;
+    }
+    .grid-item:hover {
+        opacity: 1;
+    }
+    .item1 {
+        background-image: url("./images/techniq-thumbnail-2.JPG");
+    }
+    .item2 {
+        background-image: url("./images/league-thumbnail.JPG")
+    }
+    .item3 {
+        background-image: url("./images/writenoise-thumbnail.JPG")
+    }
+    .item4 {
+        background-image: url("./images/dogdays-thumbnail.jpg")
+    }
+    .project-text {
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* Create radial gradient */
+        background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 60%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     }
 </style>
 
@@ -54,5 +130,32 @@ header:
         <h3>Back-end and gaming focused.</h3>
         <h3>Prioritize user empathy.</h3>
     </div>
-    <hr>
+</div>
+<hr class="solid"/>
+
+<div class="flex_box bottom-container">
+    <h2>Check out some of my projects.</h2>
+    <br>
+    <div class="grid-container">
+        <div class="span-2-cols span-5-rows grid-item item1">
+            <div class="project-text">
+                Techniq
+            </div>
+        </div>
+        <div class="span-3-cols span-4-rows grid-item item2">
+            <div class="project-text">
+                League Projects
+            </div>
+        </div>
+        <div class="span-2-cols span-3-rows grid-item item3">
+            <div class="project-text">
+                WriteNoise
+            </div>
+        </div>
+        <div class="span-5-row-start-fill span-3-cols grid-item item4">
+            <div class="project-text">
+                Dog Days
+            </div>
+        </div>
+    </div>
 </div>
