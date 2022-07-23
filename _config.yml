@@ -134,6 +134,11 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/charlessliu/"
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 # Site Footer
 footer:
   links:
@@ -288,11 +293,10 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: portfolio
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
       comments: # true
       share: true
       related: true
