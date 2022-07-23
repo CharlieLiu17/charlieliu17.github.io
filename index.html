@@ -59,7 +59,10 @@ header:
         gap: 1em;
         width: 100%;
         grid-template-columns: repeat(5, 1fr);
-        grid-template-rows: repeat(8, 2em);
+        grid-template-rows: repeat(10, 2em);
+    }
+    .span-2-rows {
+        grid-row: span 2;
     }
     .span-3-rows {
         grid-row: span 3;
@@ -76,6 +79,9 @@ header:
     .span-3-cols {
         grid-column: 3 / span 3;
     }
+    .span-5-cols {
+        grid-column: span 5;
+    }
     .span-5-row-start-fill {
         grid-row: 5 / span 4;
     }
@@ -90,9 +96,11 @@ header:
         font-weight: 600;
         font-size: 1.5em;
         background-size: cover;
+        background-position: center;
         background-repeat: no-repeat;
         opacity: 0.85;
         transition-duration: 0.4s;
+        cursor: pointer;
     }
     .grid-item:hover {
         opacity: 1;
@@ -108,6 +116,9 @@ header:
     }
     .item4 {
         background-image: url("./images/dogdays-thumbnail.JPG")
+    }
+    .item5 {
+        background-image: url("./images/deadliest-catch-thumbnail.png")
     }
     .project-text {
         top: 0;
@@ -155,6 +166,11 @@ header:
         <div class="span-5-row-start-fill span-3-cols grid-item item4">
             <div class="project-text">
                 Dog Days
+            </div>
+        </div>
+        <div class="span-5-cols span-2-rows grid-item item5">
+            <div class="project-text">
+                Deadliest Catch
             </div>
         </div>
     </div>
