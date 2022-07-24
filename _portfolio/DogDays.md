@@ -2,7 +2,7 @@
 title: "Dog Days"
 excerpt: "3D social simulation game, inspired by Animal Crossing and Stardew Valley."
 header:
-    image:  ./images/dogdays-thumbnail.jpg
+    # image:  ./images/dogdays-thumbnail.jpg
     teaser: ../images/dogdays-thumbnail.JPG
 sidebar:
     - title: "Start/End"
