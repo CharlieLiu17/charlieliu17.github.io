@@ -93,7 +93,6 @@ header:
         justify-content: center;
         align-items: center;
         background-color: rgb(0, 142, 236);
-        color: white;
         font-weight: 600;
         font-size: 1.5em;
         background-size: cover;
@@ -105,18 +104,24 @@ header:
     }
     .grid-item:hover {
         opacity: 1;
+        color: white;
         text-decoration: none;
     }
-    a:link { text-decoration: none; }
+    .grid-item:link {
+        text-decoration: none;
+        color: white;
+    }
 
 
-    a:visited { text-decoration: none; }
+    .grid-item:visited {
+        text-decoration: none;
+        color: white;
+    }
 
-
-    a:hover { text-decoration: none; }
-
-
-    a:active { text-decoration: none; }
+    .grid-item:active {
+        text-decoration: none;
+        color: white;
+    }
     .project-text:link { text-decoration: none; }
 
 
@@ -171,32 +176,32 @@ header:
     <br>
     <div class="grid-container">
         <a class="span-2-cols span-5-rows grid-item item1" href="/portfolio/Techniq/">
-            <!-- <div class="project-text"> -->
+            <div class="project-text">
                 Techniq
-            <!-- </div> -->
+            </div>
         </a>
-        <div class="span-3-cols span-4-rows grid-item item2">
+        <a href="/portfolio/"class="span-3-cols span-4-rows grid-item item2">
             <div class="project-text">
                 League Projects
             </div>
-        </div>
-        <div class="span-2-cols span-3-rows grid-item item3">
+        </a>
+        <a href="/portfolio/"class="span-2-cols span-3-rows grid-item item3">
             <div class="project-text">
                 WriteNoise
             </div>
-        </div>
-        <div class="span-5-row-start-fill span-3-cols grid-item item4">
+        </a>
+        <a href="/portfolio/DogDays/"class="span-5-row-start-fill span-3-cols grid-item item4">
             <div class="project-text">
                 Dog Days
             </div>
-        </div>
-        <div class="span-5-cols span-3-rows grid-item item5">
+        </a>
+        <a href="/portfolio/"class="span-5-cols span-3-rows grid-item item5">
             <div class="project-text">
                 Deadliest Catch
             </div>
-        </div>
+        </a>
     </div>
     <a href="/portfolio">
-        <h4>Click here to see all of my past projects.</h4>
+        <h4>Click here to see the rest!</h4>
     </a>
 </div>

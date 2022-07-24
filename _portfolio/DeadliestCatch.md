@@ -1,18 +1,16 @@
 ---
-title: "Techniq"
+title: "Deadliest Catch"
 excerpt: "Automatic athlete analysis for any sport - figure skating, basketball and more!"
 header:
     image:  ./images/techniq-teaser.png
     teaser: ../images/techniq-bigger-thumbnail.png
 sidebar:
-    - title: "Start/End"
-      text: "Oct 2021 - Present"
     - title: "Role"
       text: "Founder, Lead Software Engineer"
     - title: "Responsibilities"
       text: "Idea Generation, Project Management, Fullstack Development"
     - title: "Technologies"
-      text: "Python, OpenCV, GoogleMediaPipe, React Native [in development]"
+      text: "Python, OpenCV, GoogleMediaPipe, React [in development]"
     - title: <a href="https://github.com/CharlieLiu17/Techniq"> Github Repo </a>
 ---
 <style>
@@ -34,7 +32,7 @@ sidebar:
   }
 </style>
 
-  Techniq is a computer vision athlete analysis app that can be used for virtually every physical sport. Techniq takes professional footage the user inputs (i.e. Steph Curry shooting a basketball) and also takes the user's own footage (i.e. themself shooting the basketball). Techniq can sync the two footages down to the frame and will then give you frame by frame comparison of the user's form against the professional. Techniq will give differences in form in degrees for all parts of the body.
+Techniq is an automatic athlete analysis app that can be used for virtually every physical sport. Techniq takes professional footage the user inputs (i.e. Steph Curry shooting a basketball) and also takes the user's own footage (i.e. themself shooting the basketball). Techniq can sync the two footages down to the frame and will then give you frame by frame comparison of the user's form against the professional. Techniq will give differences in form in degrees for all parts of the body.
 
 ## Examples
 
@@ -86,7 +84,7 @@ Notice even with significantly different camera angles, Techniq can still correc
 
 ## Who is this for?
 
-Techniq should be used by elite athletes and coaches alike for form training.
+Techniq should be used by athletes and coaches alike for form training.
 
 Athletes are never always under the watchful eye of a coach. And while this app obviously can't completely replicate a coach, it can be a pivotal tool that speedens the learning feedback loop for the athlete.
 
@@ -94,12 +92,4 @@ Coaches can also greatly benefit from this. An athlete and a coach have limited 
 
 ## Why did we make Techniq?
 
- Techniq was a product of a HackGT8, by Team STAC. STAC was composed of Charlie Liu, Amal Chaudry, Tina Nguyen, and Sheza Chaudhry. I came up with the idea, as I was an elite figure skater in high school and had experience using Google MediaPipe and OpenCV. I had a personal need for the app, and even after HackGT8, have continued to work on it independently.
-
-## Future
-
-I'm currently actively building out the app, hoping to bring it to mobile in the near future. The current code, while exciting, is still only a proof of concept (POC). I'm very excited with how the POC has turned out, and I have tested with other athletes locally and gotten constructive feedback.
-
-Current work is underway to transition the app to React Native, leveraging MediaPipe's JavaScript library as the basis. I'm looking to build out both a backend database and frontend app that has account and video storage capabilities. I'm also closely working with a designer to plan out the the app's overall design.
-
-I'm excited, so be sure to check back in a few months on my progress!
+ Techniq was a product of a HackGT8, by Team STAC. STAC was composed of Charlie Liu, Amal Chaudry, Tina Nguyen, and Sheza Chaudhry. I came up with the idea, as I was an elite figure skater in high school and had experience using Google MediaPipe and OpenCV. I had a personal need for the app, and even after HackGT8, have continued to work on it. I'm currently actively building out the app, hoping to bring it to mobile in the near future.
