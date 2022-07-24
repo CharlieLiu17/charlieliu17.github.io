@@ -11,6 +11,7 @@ sidebar:
       text: "Idea Generation, Project Management, Fullstack Development"
     - title: "Technologies"
       text: "Python, OpenCV, GoogleMediaPipe, React [in development]"
+    - title: <a href="https://github.com/CharlieLiu17/Techniq"> Github Repo </a>
 ---
 <style>
   .flex {
