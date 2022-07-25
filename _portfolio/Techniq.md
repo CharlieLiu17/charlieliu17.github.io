@@ -2,8 +2,8 @@
 title: "Techniq"
 excerpt: "Automatic athlete analysis for any sport - figure skating, basketball and more!"
 header:
-    image:  ./images/techniq-teaser.png
-    teaser: ../images/techniq-bigger-thumbnail.png
+    image:  ../images/techniq-hero.png
+    teaser: ../images/techniq-teaser-small.png
 sidebar:
     - title: "Start/End"
       text: "Oct 2021 - Present"
