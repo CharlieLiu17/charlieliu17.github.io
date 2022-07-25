@@ -2,7 +2,7 @@
 title: "League Of Legends Projects"
 excerpt: "Check out what I do with my favorite hobby."
 header:
-    teaser: ../images/league-thumbnail.png
+    teaser: ../images/league-thumbnail.jpg
 sidebar:
     - title: "Role"
       text: "Software Engineer"
