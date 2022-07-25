@@ -1,18 +1,19 @@
 ---
-title: "Techniq"
-excerpt: "Automatic athlete analysis for any sport - figure skating, basketball and more!"
+title: "WriteNoise - 2nd Place @ HackGT7"
+excerpt: "Visualizing sound with applications in steganography and artistic musical representation."
 header:
-    image:  ./images/techniq-teaser.png
-    teaser: ../images/techniq-bigger-thumbnail.png
+    image:  ./images/writenoise-hero.png
+    teaser: ../images/writenoise-thumbnail.JPG
 sidebar:
     - title: "Role"
-      text: "Founder, Lead Software Engineer"
+      text: "Project Manager, Software Engineer"
     - title: "Responsibilities"
-      text: "Idea Generation, Project Management, Fullstack Development"
+      text: "Idea Generation, Project Management"
     - title: "Technologies"
-      text: "Python, OpenCV, GoogleMediaPipe, React [in development]"
-    - title: <a href="https://github.com/CharlieLiu17/Techniq"> Github Repo </a>
+      text: "Python, SciPy, NumPy, MatPlotLib"
+    - title: <a href="https://github.com/CharlieLiu17/WriteNoise"> Github Repo </a>
 ---
+
 <style>
   .flex {
     display: flex;
@@ -32,64 +33,34 @@ sidebar:
   }
 </style>
 
-Techniq is an automatic athlete analysis app that can be used for virtually every physical sport. Techniq takes professional footage the user inputs (i.e. Steph Curry shooting a basketball) and also takes the user's own footage (i.e. themself shooting the basketball). Techniq can sync the two footages down to the frame and will then give you frame by frame comparison of the user's form against the professional. Techniq will give differences in form in degrees for all parts of the body.
-
-## Examples
-
-Below you can find 2 video clips: One of me shooting the basketball, and one of Steph Curry shooting the basketball.
+WriteNoise was a HackGT7 project made by Charlie Liu, Morris Wan, Ethan Chee, and Kurt Hu. It won **2nd Place Overall** in the hackathon, out of 2500+ participants.
 
 <div class="flex">
-  <video class="flex-item" width="auto" height="400" controls autoplay muted loop>
-    <source src="https://user-images.githubusercontent.com/50965230/177166271-6b589611-bdd9-41f7-a88c-261ab094071c.mp4" type="video/mp4">
-  </video>
-  <video class="flex-item" width="auto" height="400" controls autoplay muted loop>
-    <source src="https://user-images.githubusercontent.com/50965230/177166466-c55cc1dd-3aa2-4dea-bbae-6f7618bdd61e.mp4" type="video/mp4">
-  </video>
-</div>
-<div class="caption">As evident by leaving the two videos playing, these video clips are not synchronized.</div>
-
-
-Running the program on these two inputs, the result generated is a series of side-by-side frames: 
-
-
-<div class="flex">
-  <video class="flex-item" width="100%" height="auto" controls autoplay muted loop>
-    <source src="https://user-images.githubusercontent.com/50965230/177167812-9726e84a-3cda-4e6a-b74d-05a9f2544cc1.mp4" type="video/mp4">
-  </video>
-</div>
-<div class="caption">We rise at the same time and shoot at the same time. Differences in form now can be much more easily discerned.</div>
-
-Another example with the figure skating jump, the **axel**.
-Here are the initial clips:
-
-<div class="flex">
-  <video class="flex-item" width="100%" height="auto" controls autoplay muted loop>
-    <source src="https://user-images.githubusercontent.com/50965230/180627533-3702b083-f3a9-4df0-a0f0-0421e58e5d87.mp4" type="video/mp4">
-  </video>
-  <video class="flex-item" width="100%" height="auto" controls autoplay muted loop>
-    <source src="https://user-images.githubusercontent.com/50965230/180627534-76347d69-1213-4f08-b7e8-d74ed2c65a32.mp4" type="video/mp4">
+  <video class="flex-item" width="100%" height="auto" controls loop>
+    <source src="../../videos/WriteNoiseDemo.mp4" type="video/mp4">
   </video>
 </div>
 
-And here is the output:
+## What is WriteNoise?
 
-<div class="flex">
-  <video class="flex-item" width="100%" height="auto" controls autoplay muted loop>
-    <source src="https://user-images.githubusercontent.com/50965230/177243187-7b14fb76-bcaa-4736-a4ec-3dd9cab62f23.mp4" type="video/mp4">
-  </video>
-</div>
-<div class="caption">I (on left) am doing a double axel while Yuzuru Hanyu (on right, 2-time gold Olympic medalist) is doing a triple axel, which is one more rotation.  </div>
+WriteNoise is a sound to image converter. How can we convert a sound to an image? Well, we convert every bit of sound into the bits of an RGBA value. Each RGBA value then becomes a pixel in the final image.
 
-Notice even with significantly different camera angles, Techniq can still correctly synchronize.
+## Why would you use WriteNoise?
 
-## Who is this for?
+WriteNoise has many applications. From steganography to artistic musical representation, it's truly versatile.
 
-Techniq should be used by athletes and coaches alike for form training.
+Since this is a lossless conversion of information, you can use the produced image as an encrypted message that has the additional benefit of an extra layer of protection as people wouldn't even realize it's a message. 
 
-Athletes are never always under the watchful eye of a coach. And while this app obviously can't completely replicate a coach, it can be a pivotal tool that speedens the learning feedback loop for the athlete.
+Additionally, the produced image can be used as a "QR code" for sound. Without an internet connection, a QR code is often only a text string. Our image could let sound be played without an internet connection.
 
-Coaches can also greatly benefit from this. An athlete and a coach have limited time together, and that time is wasted if the two of them stand around for the coach to manually sync the videos. Additionally, the app may even spot faults in form that even the coach could not detect in real-time.
+Finally, the produced image can represent different types of sound. The laughter at a comedy show produces a drastically different image than the sound of Taylor Swift's  hit song, "22".
 
-## Why did we make Techniq?
+## Demo
 
- Techniq was a product of a HackGT8, by Team STAC. STAC was composed of Charlie Liu, Amal Chaudry, Tina Nguyen, and Sheza Chaudhry. I came up with the idea, as I was an elite figure skater in high school and had experience using Google MediaPipe and OpenCV. I had a personal need for the app, and even after HackGT8, have continued to work on it. I'm currently actively building out the app, hoping to bring it to mobile in the near future.
+https://writenoise.herokuapp.com/
+
+Only takes .wav files.
+
+## More information
+
+More information can be found on [Devpost](https://devpost.com/software/write-noise)!
