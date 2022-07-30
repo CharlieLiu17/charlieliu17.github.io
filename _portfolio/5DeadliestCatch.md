@@ -1,6 +1,7 @@
 ---
 title: "Deadliest Catch"
 excerpt: "Tower defense game built in Android Studio for CS 2340."
+order: 5
 header:
     image:  ../images/DeadliestCatch/deadliest-catch-thumbnail.png
     teaser: ../images/DeadliestCatch/deadliest-catch-teaser.png

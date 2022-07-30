@@ -1,6 +1,7 @@
 ---
 title: "WriteNoise - 2nd Place @ HackGT7"
 excerpt: "Visualizing sound with applications in steganography and artistic musical representation."
+order: 3
 header:
     image:  ./images/writenoise-hero.png
     teaser: ../images/writenoise-thumbnail.JPG

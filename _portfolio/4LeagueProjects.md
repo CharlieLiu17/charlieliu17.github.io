@@ -1,6 +1,7 @@
 ---
 title: "League Of Legends Projects"
 excerpt: "Check out what I do with my favorite hobby."
+order: 4
 header:
     teaser: ../images/league-thumbnail.jpg
 sidebar:
@@ -28,7 +29,7 @@ sidebar:
 
 ## Purpose
 
-I have a lot of passion for the game of League, so this page houses the League projects I have worked on, currently working on, and future projects I will work on.
+I have a lot of passion for the game of League, so this page houses the ```championsearch.py```, a script that allows players to maximize their preparation before matches.
 
 ## ```championsearch.py```
 

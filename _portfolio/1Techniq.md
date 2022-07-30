@@ -1,6 +1,7 @@
 ---
 title: "Techniq"
 excerpt: "Automatic athlete analysis for any sport - figure skating, basketball and more!"
+order: 1
 header:
     image:  ../images/techniq-hero.png
     teaser: ../images/techniq-teaser-small.png
@@ -34,7 +35,7 @@ sidebar:
   }
 </style>
 
-  Techniq is a computer vision athlete analysis app that can be used for virtually every physical sport. Techniq takes professional footage the user inputs (i.e. Steph Curry shooting a basketball) and also takes the user's own footage (i.e. themself shooting the basketball). Techniq can sync the two footages down to the frame and will then give you frame by frame comparison of the user's form against the professional. Techniq will give differences in form in degrees for all parts of the body.
+  Techniq is a computer vision athlete analysis app that can be used for virtually every physical sport. Techniq takes professional footage the user inputs (i.e. Steph Curry shooting a basketball) and also takes the user's own footage (i.e. themself shooting the basketball). Techniq can sync the two footages down to the frame and will then give the user frame-by-frame comparison of the user's form against the professional. Techniq will give differences in form in degrees for all parts of the body.
 
 ## Examples
 
@@ -88,7 +89,7 @@ Notice even with significantly different camera angles, Techniq can still correc
 
 Techniq should be used by elite athletes and coaches alike for form training.
 
-Athletes are never always under the watchful eye of a coach. And while this app obviously can't completely replicate a coach, it can be a pivotal tool that speedens the learning feedback loop for the athlete.
+During day-to-day practice, athlets may not always have a coach to give them feedback. Currently, athletes rely either on purely repetitions or recording themselves and reviewing the footage. I believe Techniq solves that issue by giving instant high-level feedback to the individual athlete. And while this app obviously can't completely replicate a coach, it can be a pivotal tool that speedens the learning feedback loop for the athlete.
 
 Coaches can also greatly benefit from this. An athlete and a coach have limited time together, and that time is wasted if the two of them stand around for the coach to manually sync the videos. Additionally, the app may even spot faults in form that even the coach could not detect in real-time.
 
@@ -98,8 +99,8 @@ Coaches can also greatly benefit from this. An athlete and a coach have limited 
 
 ## Future
 
-I'm currently actively building out the app, hoping to bring it to mobile in the near future. The current code, while exciting, is still only a proof of concept (POC). I'm very excited with how the POC has turned out, and I have tested with other athletes locally and gotten constructive feedback.
+I'm currently actively building out the app, bringing it to mobile in the near future. The current project is currently showing great promise, having tested with a wide range of athletes to validate my assumptions and gather feedback to enhance the working model.
 
-Current work is underway to transition the app to React Native, leveraging MediaPipe's JavaScript library as the basis. I'm looking to build out both a backend database and frontend app that has account and video storage capabilities. I'm also closely working with a designer to plan out the the app's overall design.
+Specifically, current work is underway to transition the app to React Native, leveraging MediaPipe's JavaScript library as the basis, with a backend database and frontend app that has account and video storage capabilities. I'm also closely working with a designer to plan out the the app's overall design.
 
-I'm excited, so be sure to check back in a few months on my progress!
+Be sure to check back in a few months on my progress!

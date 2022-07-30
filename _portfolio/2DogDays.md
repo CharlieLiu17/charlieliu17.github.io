@@ -1,6 +1,7 @@
 ---
 title: "Dog Days"
 excerpt: "3D social simulation game, inspired by Animal Crossing and Stardew Valley."
+order: 2
 header:
     # image:  ./images/dogdays-thumbnail.jpg
     teaser: ../images/dogdays-thumbnail.JPG
@@ -46,5 +47,9 @@ Dog Days was a Spring 2021 vgDev game that I created and led. It is a 3D social 
 
 ## The How
 
-We made this game with the Unity game engine. I've made games before in Unity, but never in 3D and never on this scale. We had team members dedicated to working on creating original music, fabricating 3D models (I'm super proud of the white picket fence!), writing game systems (items, quests, movement). Over 10 weeks, we worked on one week sprints, with weekly meetings and demos. There was so much to be done, and I'm very proud of our team for managing to create a fleshed-out 3D social simulation game within 10 weeks during a rough, Covid-era semester. 
+- We made this game with the Unity game engine
+- We had team members dedicated to working on creating original music, fabricating 3D models, writing game systems (items, quests, movement)
+- Over 10 weeks, we worked on one week sprints, with weekly meetings and demos 
+
+There was so much to be done, and I'm very proud of our team for managing to create a fleshed-out 3D social simulation game within 10 weeks during a rough, Covid-era semester. 
 
