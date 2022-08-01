@@ -6,6 +6,8 @@ header:
     image:  ./images/writenoise-hero.png
     teaser: ../images/writenoise-thumbnail.JPG
 sidebar:
+    - title: "Start/End"
+      text: "Oct 2020"
     - title: "Role"
       text: "Project Manager, Software Engineer"
     - title: "Responsibilities"
@@ -34,7 +36,9 @@ sidebar:
   }
 </style>
 
-WriteNoise was a HackGT7 project made by Charlie Liu, Morris Wan, Ethan Chee, and Kurt Hu. It won **2nd Place Overall** in the hackathon, out of 2500+ participants.
+WriteNoise is a sound to image converter with lossless conversion, allowing for encoded messages (steganography) and artistic musical representation.
+
+It won **2nd Place Overall** in the hackathon, out of 2500+ participants.
 
 <div class="flex">
   <video class="flex-item" width="100%" height="auto" controls loop>
@@ -42,9 +46,9 @@ WriteNoise was a HackGT7 project made by Charlie Liu, Morris Wan, Ethan Chee, an
   </video>
 </div>
 
-## What is WriteNoise?
+## How does WriteNoise work? 
 
-WriteNoise is a sound to image converter. How can we convert a sound to an image? Well, we convert every bit of sound into the bits of an RGBA value. Each RGBA value then becomes a pixel in the final image.
+It converts every byte of sound into the bytes of an RGBA value. Each RGBA value then becomes a pixel in the final image.
 
 ## Why would you use WriteNoise?
 
@@ -56,6 +60,14 @@ Additionally, the produced image can be used as a "QR code" for sound. Without a
 
 Finally, the produced image can represent different types of sound. The laughter at a comedy show produces a drastically different image than the sound of Taylor Swift's  hit song, "22".
 
+## My Role
+
+Over the course of 36 hours, I accomplished:
+- Generating our idea
+- Communicating effectively with HackGT judges
+- Distributing work to 4 teammates
+- Coding artistic features 
+
 ## Demo
 
 https://writenoise.herokuapp.com/
@@ -65,3 +77,7 @@ Only takes .wav files.
 ## More information
 
 More information can be found on [Devpost](https://devpost.com/software/write-noise)!
+
+## Credits
+
+WriteNoise was a HackGT7 project made by Charlie Liu, Morris Wan, Ethan Chee, and Kurt Hu.
