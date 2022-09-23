@@ -4,7 +4,7 @@ excerpt: "Exploring emotional impact of physical activity in VR."
 order: 5
 classes: wide
 header:
-    image:  ../images/VR/vr-hero.jpg
+    image:  ../images/VR/vr-hero.JPG
     teaser: ../images/VR/dodging-vr.jpg
 sidebar:
     - title: "Start/End"
