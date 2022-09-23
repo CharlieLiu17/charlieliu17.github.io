@@ -89,7 +89,7 @@ Notice even with significantly different camera angles, Techniq can still correc
 
 Techniq should be used by elite athletes and coaches alike for form training.
 
-During day-to-day practice, athlets may not always have a coach to give them feedback. Currently, athletes rely either on purely repetitions or recording themselves and reviewing the footage. I believe Techniq solves that issue by giving instant high-level feedback to the individual athlete. And while this app obviously can't completely replicate a coach, it can be a pivotal tool that speedens the learning feedback loop for the athlete.
+During day-to-day practice, athletes may not always have a coach to give them feedback. Currently, athletes rely either on purely repetitions or recording themselves and reviewing the footage. I believe Techniq solves that issue by giving instant high-level feedback to the individual athlete. And while this app obviously can't completely replicate a coach, it can be a pivotal tool that speedens the learning feedback loop for the athlete.
 
 Coaches can also greatly benefit from this. An athlete and a coach have limited time together, and that time is wasted if the two of them stand around for the coach to manually sync the videos. Additionally, the app may even spot faults in form that even the coach could not detect in real-time.
 
