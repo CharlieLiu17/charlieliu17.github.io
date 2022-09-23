@@ -10,7 +10,7 @@ sidebar:
     - title: "Responsibilities"
       text: "Software Design, Software Development"
     - title: "Technologies"
-      text: "Python, REST APIs (Riot/YouTube)"
+      text: "PHP, WordPress, Python, REST APIs (Riot/YouTube)"
     - title: <a href="https://github.com/CharlieLiu17/league-projects"> Github Repo </a>
 ---
 <style>
@@ -25,28 +25,46 @@ sidebar:
   .flex-item {
     border-radius: 10px;
   }
+  .caption {
+    margin: 10px auto;
+    font-size: 0.75em;
+    font-style: italic;
+    text-align: center;
+  }
 </style>
 
 ## Purpose
 
-I have a lot of passion for the game of League, so this page houses the ```championsearch.py```, a script that allows players to maximize their preparation before matches.
+I have a lot of passion for the game of League, so this page houses the League-related projects I've worked on.
+
+## Freelance Development with Skill Capped (8/22 - Present)
+
+Skill Capped is a very popular YouTube channel and website **(1.2 million+ total subscribers)** that provides high-level educational content for games like World of Warcraft, Valorant, and League of Legends. Their guides have personally helped with my own journey with League of Legends, so I was very excited for this opportunity.
+
+Skill Capped reached out to me to help develop features for the launch of their new website. I created a **dynamic tierlist Wordpress plug-in**. 
+
+<div class="flex">
+  <iframe class="flex-item" width="560" height="315" src="https://www.youtube.com/embed/rw9ujr2470w?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="flex">
+  <div class="caption flex"> The current WIP of the dynamic tier list. <br> Currently with WoW, to be expanded to League and Valorant.</div>
+</div>
+
+I'm continuing my work with Skill Capped, so I can produce more features for them and their subscribers and to stay close to the gaming space!
 
 ## ```championsearch.py```
 
 Running ```championsearch.py``` allows you to input your champion, the enemy champion (usually your lane opponent), and the key ability of your champion and the enemy champion to compare. The output is both champion's ability cooldowns, as well as the cooldown difference between your key ability and the enemy's. An example is shown below: 
 
 <div class="flex">
-  <img src="../../images/League/output.JPG" />
+  <img class="flex-item" src="../../images/League/output.JPG" />
 </div>
 
 Additionally, the program will open up the op.gg champion page and a YouTube video. The video showcases a high-elo game where the champion you play wins against the enemy champion.
 
 <div class="flex">
-  <img src="../../images/League/video_output.JPG?raw=true" />
-</div>
-
-<div class="flex">
-  <img src="../../images/League/opgg.JPG?raw=true" />
+  <img class="flex-item" src="../../images/League/video_output.JPG?raw=true" />
+  <img class="flex-item" src="../../images/League/opgg.JPG?raw=true" />
 </div>
 
 ### When to use ```championsearch.py```
