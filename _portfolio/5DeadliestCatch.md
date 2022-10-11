@@ -40,6 +40,7 @@ sidebar:
 </div>
 
 ## What is Deadliest Catch?
+
 Deadliest Catch is a tower defense game with high quality FPS and hitbox detection.
 
 Once a level is selected, the player can choose a unit (fisherman, spearman, or boatman) to place anywhere on the river side. These units have specialized effects, and the player must choose what combination of them most effectively stops the oncoming fish from reaching the end of the river! The game is played at 60 frames per second, which makes gameplay extremely smooth and responsive.
@@ -50,7 +51,7 @@ Once a level is selected, the player can choose a unit (fisherman, spearman, or 
 - Implemented software design patterns like singletons
 - Utilized Object-oriented Programming (OOP) principles
   - Polymorphism
-  - Inheritance 
+  - Inheritance
 - Game engine code
   - Robust frame system
     - Allowing to freely adjust the frames per second (FPS)
@@ -58,12 +59,13 @@ Once a level is selected, the player can choose a unit (fisherman, spearman, or 
     - Much smoother feel
   - Pixel precision for hitboxes and placement as opposed to other teams' tile system
     - More freedom for the player
-    - More strategic placement of unitsvhjhh
+    - More strategic placement of units
     - Faster feedback for combat
-  
+
 ## My Role
 
 My responsibilities on the team:
+
 - Designed and programmed game engine code
 - Directed game's thematics
 - Review teammates' pull requests
