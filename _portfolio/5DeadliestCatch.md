@@ -68,8 +68,8 @@ My responsibilities on the team:
 
 - Designed and programmed game engine code
 - Directed game's thematics
-- Review teammates' pull requests
-- Troubleshoot team's Git issues
+- Reviewed teammates' pull requests
+- Troubleshooted team's Git issues
 
 ## Credits
 
