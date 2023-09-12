@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title:  "Internship at 3dMD"
-date:   2021-03-25 11:50:21 -0400
+date:   2021-08-25 11:50:21 -0400
 excerpt: "My first SWE experience."
 header:
     overlay_image: /images/3dMD.JPG
